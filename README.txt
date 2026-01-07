@@ -1,73 +1,68 @@
-Capstone Projects Portfolio
-Overview
+# Capstone Projects Portfolio
 
-This repository contains a collection of capstone projects completed after finishing a series of practical lessons in SQL, Power BI, Excel, and Tableau. Each project is based on a real-world business scenario and focuses on using data to answer business questions, identify trends, and support decision-making.
+##  Overview
 
-The projects demonstrate my ability to work with data across different tools — from querying and analysis to visualisation and reporting.
+This repository contains a collection of capstone projects completed after finishing practical lessons in **SQL, Power BI, Excel, and Tableau**. Each project is based on a real-world business scenario and focuses on using data to answer business questions, identify trends, and support informed decision-making.
 
-Projects Included
-1. NextGen Corp – SQL Capstone Project
+These projects demonstrate my ability to work with data across different tools — from querying and analysis to visualisation and reporting.
 
-This project focuses on analysing workforce data for a fictional organisation, NextGen Corp. Using SQL, I explored employee performance, retention, turnover, and salary data. The goal was to identify trends and insights that could support better workforce planning and management decisions.
+##  Projects Included
 
-Key skills used:
+### 1. NextGen Corp — SQL Capstone Project
 
-Writing SQL queries
+This project focuses on analysing workforce data for a fictional organisation, **NextGen Corp**. Using SQL, I explored employee performance, retention, turnover, and salary data. The aim was to identify patterns and insights that could support workforce planning and management decisions.
 
-Data filtering, grouping, and aggregation
+**Key skills used:**
 
-Using joins and subqueries
+- Writing SQL queries
+- Data filtering, grouping, and aggregation
+- Using joins and subqueries
+- Analysing business and HR-related data
 
-Analysing business and HR-related data
+---
 
-2. NovaMed Solutions – Power BI Customer Insights Dashboard
+### 2. NovaMed Solutions — Power BI Customer Insights Dashboard
 
-This project involved building an interactive Power BI dashboard for NovaMed Solutions. The dashboard analyses customer behaviour, sales performance, product profitability, and regional trends. It is designed to help stakeholders quickly understand key metrics and identify growth opportunities.
+This project involved building an interactive **Power BI dashboard** for NovaMed Solutions. The dashboard analyses customer behaviour, sales performance, product profitability, and regional trends. It is designed to help stakeholders quickly understand key metrics and identify growth opportunities.
 
-Key skills used:
+**Key skills used:**
 
-Data modelling and transformation
+- Data modelling and transformation
+- Creating interactive dashboards
+- KPI tracking and visual design
+- Communicating insights clearly
 
-Creating interactive dashboards
+---
 
-KPI tracking and visual design
+### 3. Café Harmony — Excel Capstone Project
 
-Communicating insights effectively
+The **Café Harmony** project focuses on operational and sales analysis using Excel. I analysed sales trends, product performance, inventory levels, employee performance, and customer feedback. The project includes pivot tables, dashboards, and recommendations to improve efficiency and customer experience.
 
-3. Café Harmony – Excel Capstone Project
+**Key skills used:**
 
-The Café Harmony project focuses on operational and sales analysis using Excel. I analysed sales trends, product performance, inventory levels, employee performance, and customer feedback. The project includes pivot tables and a dashboard, along with recommendations to improve efficiency and customer experience.
+- Data cleaning and preparation
+- Pivot tables and dashboards
+- Sales and operational analysis
+- Turning data into business recommendations
 
-Key skills used:
+---
 
-Data cleaning and preparation
+### 4. Choco de Luxe — Tableau Capstone Project
 
-Pivot tables and dashboards
+This project centres on sales and operational analysis for **Choco de Luxe**, an artisanal chocolate brand. Using Tableau, I worked with datasets covering sales, product categories, delivery timings, and salesperson performance. I built interactive dashboards to explore revenue trends, regional differences, delivery issues, and product-level performance, concluding with practical recommendations to support stock planning, sales strategy, and operational improvements.
 
-Sales and operational analysis
+**Key skills used:**
 
-Turning data into business recommendations
+- Data cleaning and organisation in Tableau
+- Building interactive dashboards
+- Visual analysis of sales and delivery patterns
+- Identifying actionable business insights
 
-4. Choco de Luxe – Tableau Capstone Project
+---
 
-This project centres on sales and operational analysis for Choco de Luxe, an artisanal chocolate brand. Using Tableau, I worked with datasets covering sales, product categories, delivery timings and salesperson performance. I built interactive dashboards to explore revenue trends, regional differences, delivery issues and product-level performance. The project concludes with practical recommendations to support stock planning, sales strategy, and operational improvements.
+## Tools and Technologies
 
-Key skills used:
-
-Data cleaning and organisation in Tableau
-
-Building interactive dashboards
-
-Visual analysis of sales and delivery patterns
-
-Identifying actionable business insights
-
-Tools and Technologies
-
-SQL – Data querying and analysis
-
-Power BI – Data visualisation and dashboards
-
-Microsoft Excel – Data analysis, pivot tables, and reporting
-
-Tableau – Interactive dashboards and visual analytics
+- **SQL** — Data querying and analysis  
+- **Power BI** — Data visualisation and dashboards  
+- **Microsoft Excel** — Data analysis, pivot tables, and reporting  
+- **Tableau** — Interactive dashboards and visual analytics
